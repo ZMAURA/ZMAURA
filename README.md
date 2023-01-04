@@ -18,4 +18,4 @@
 
 # 
 
-![ZMAURA's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![ZMAURA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZMAURA&show_icons=true&theme=dark)
