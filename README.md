@@ -1,6 +1,8 @@
-# ➤ ZMAURA
+➤ ZMAURA
+======================
 
-## **Developer**
+Developer
+---------
 
 As a self-taught developer, I am constantly seeking out new ways to improve and expand my skillset. I believe that continuous learning is crucial for success in this field, and I am committed to putting in the hard work and dedication required to become proficient. I am driven by a passion for problem-solving and a desire to create innovative solutions, and I believe that my self-motivation and determination will help me achieve my goals. Whether through online courses, textbooks, or hands-on projects, I am committed to finding the resources and opportunities that will help me grow as a developer and make a meaningful impact in my career.
 
@@ -19,6 +21,8 @@ As a self-taught developer, I am constantly seeking out new ways to improve and 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ZMAURA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rocky-calle-26140825b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
 
 <b>My GitHub Stats</b>
 
