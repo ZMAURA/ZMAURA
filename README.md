@@ -2,12 +2,11 @@
 ======================
 
 Developer
----------
-
+---
 As a self-taught developer, I am constantly seeking out new ways to improve and expand my skillset. I believe that continuous learning is crucial for success in this field, and I am committed to putting in the hard work and dedication required to become proficient. I am driven by a passion for problem-solving and a desire to create innovative solutions, and I believe that my self-motivation and determination will help me achieve my goals. Whether through online courses, textbooks, or hands-on projects, I am committed to finding the resources and opportunities that will help me grow as a developer and make a meaningful impact in my career.
 
-* 🌍  I'm based in New York
-* 🧠  I'm learning JavaScript
+🌍 ***New York***
+
 
 ### Skills
 <p align="left">
@@ -16,13 +15,13 @@ As a self-taught developer, I am constantly seeking out new ways to improve and 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/
 </p>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ZMAURA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rocky-calle-26140825b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
