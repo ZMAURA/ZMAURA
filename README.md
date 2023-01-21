@@ -25,8 +25,6 @@ As a self-taught developer, I am constantly seeking out new ways to improve and 
 
 <b>My GitHub Stats</b>
 
-
-
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZMAURA&theme=react&line_height=40&hide=css"/> </a>
  
-<a href="https://github.com/ZMAURA" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZMAURA&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
+<a href="https://github.com/ZMAURA" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZMAURA&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
