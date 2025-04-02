@@ -2,10 +2,6 @@
 ======================
 
 Developer
----
-As a self-taught developer, I am constantly seeking out new ways to improve and expand my skillset. I believe that continuous learning is crucial for success in this field, and I am committed to putting in the hard work and dedication required to become proficient. I am driven by a passion for problem-solving and a desire to create innovative solutions, and I believe that my self-motivation and determination will help me achieve my goals. Whether through online courses, textbooks, or hands-on projects, I am committed to finding the resources and opportunities that will help me grow as a developer and make a meaningful impact in my career.
-
-🌍 ***New York***
 
 
 ### Skills
